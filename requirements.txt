@@ -1,0 +1,5 @@
+torch>=2.1
+sentencepiece>=0.1.99
+datasets>=2.18
+sacrebleu>=2.4
+unbabel-comet>=2.2  # optional, only needed for --use_comet
