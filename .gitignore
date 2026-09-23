@@ -1,1 +1,6 @@
-data/ 
+/data/
+/data_smoke/
+/checkpoints/
+/checkpoints_smoke/
+__pycache__/
+*.pyc
